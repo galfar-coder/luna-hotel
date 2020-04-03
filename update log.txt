@@ -1,0 +1,12 @@
+# info #
+
+# date is recorded at UTC(global time) #
+
+# update log updated(times): 0 #
+
+update log
+update 1: 
+  added descriptions 18:55
+  synced some things 19:00
+
+# end #
